@@ -16,7 +16,6 @@
 	<properties>
 		<java.version>1.8</java.version> <!-- Defina a versão do Java para 1.8 -->
 	</properties>
-	<packaging>war</packaging>
 	<dependencies>
 		<!--<dependency>
 			<groupId>org.springframework.boot</groupId>
